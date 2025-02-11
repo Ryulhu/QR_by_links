@@ -1,7 +1,8 @@
 # QR para links 
 
-¡Hola! Soy [Ryulhu](https://github.com/Ryulhu) y estoy encantado de conocerte.
+[![QR-links.png](https://i.postimg.cc/RhW1LMtd/QR-links.png)](https://postimg.cc/SYpzybDY)
 
+¡Hola! Soy [Ryulhu](https://github.com/Ryulhu) y estoy encantado de conocerte.
 
 🌱 Actualmente, estoy enfocado en seguir aprendiendo y mejorando mis habilidades.
 
